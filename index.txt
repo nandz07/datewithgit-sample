@@ -1,3 +1,3 @@
 this is my first git
 
-for two end merge
+for two end merge  .
