@@ -4,4 +4,8 @@ hi appu
 
 hi mani
 
+<<<<<<< HEAD
 mani is team leader
+=======
+appu is team leader
+>>>>>>> feature
